@@ -1,0 +1,1 @@
+Este es el documento readme donde se pueden especificar cosas sobre el proyecto, su uso, lo que hace y demas
